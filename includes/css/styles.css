@@ -1,0 +1,80 @@
+body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	overflow-x: hidden;
+	font-family: Source Sans Pro;
+	font-size: 20px;
+}
+
+li {
+  display:inline;
+  padding-right: 10px;
+}
+
+#mycarousel
+{
+	margin-top:60px;
+}
+#callout
+{
+	margin-top:20px 0;
+}
+
+}
+
+#features
+{
+  text-align: center;
+}
+
+#clr
+{
+	color:red;
+}
+
+#tossing
+{
+	font-size:40px;
+}
+@media screen and (max-width:37.4em) {
+	.as
+	{
+	  width:100%;
+	}
+}
+@media screen and (min-width:37.5em) {
+	.as
+	{
+	  width:100%;
+	}
+}
+
+#ht
+{
+  height:auto;
+}
+#tab2
+{
+	margin-bottom: 30px;
+}
+
+#r1
+{
+  background: #6C6361;
+}
+#r2
+{
+  background: #A8A6A5;
+}
+footer
+{
+  background-color: #eee;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+#copyright
+{
+	margin-top: 10px;
+  text-align: right;
+}
